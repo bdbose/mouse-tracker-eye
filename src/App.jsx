@@ -32,6 +32,10 @@ function App() {
           <div className='ball-right' ref={RightBall}></div>
         </div>
       </div>
+      <h1>
+        Full Code:{' '}
+        <a href='https://github.com/bdbose/mouse-tracker-eye'>Click Here!</a>
+      </h1>
     </div>
   );
 }
